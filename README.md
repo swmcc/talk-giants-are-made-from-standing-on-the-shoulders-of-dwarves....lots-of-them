@@ -16,6 +16,15 @@ Take this down before publishing it.
 
 [PDF Export](http://giants-are-made.talks.swm.cc/?print-pdf#/)
 
+## Running
+
+```
+git clone https://github.com/swmcc/talk-giants-are-made-from-standing-on-the-shoulders-of-dwarves....lots-of-them.git giants-are-made
+cd giants-are-made
+npm install
+node plugin/multiplex
+```
+
 ### Credits
 
 Written using the [reveal.js](https://github.com/hakimel/reveal.js/) framework.
