@@ -4,7 +4,12 @@
 
 ## What is it?
 
-A lightning talk I gave in May 2012 in London on the processes that others use to make their lives simpler and therefore produce better work and more importantly keep developers happ(y|ier).
+A lignting talk I gave to a user group in London in May 2013. I was invited over and so I went and gave this lightning 
+talk.
+
+The basic elements of this talk are that good systems and developers can be built on using lots of small 
+'apps' or 'processes'. I prove this by using examples from Star Wars, biblical passages, my own life experience, 
+Charlie and the chocolate factory, The Matrix films and Stalin's Russia.
 
 ## Links
 
