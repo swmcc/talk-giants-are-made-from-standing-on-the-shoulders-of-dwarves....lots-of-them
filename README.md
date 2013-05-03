@@ -8,18 +8,12 @@ A lignting talk I gave to a user group in London in May 2013. I was invited over
 talk.
 
 The basic elements of this talk are that good systems and developers can be built on using lots of small 
-'apps' or 'processes'. I prove this by using examples from Star Wars, biblical passages, my own life experience, 
-Charlie and the chocolate factory, The Matrix films and Stalin's Russia.
+'apps' or 'processes'.
 
 ## Links
 
 You can view the [slides](https://speakerdeck.com/swmcc/giants-are-made-by-standing-on-the-shoulders-of-dwarves-dot-dot-dot-lots-of-them) or you can view the [webpage](http://giants-are-made.talks.swm.cc/). Whichever you prefer.
 
-## Misc
-
-Take this down before publishing it.
-
-[PDF Export](http://giants-are-made.talks.swm.cc/?print-pdf#/)
 
 ## Running
 
