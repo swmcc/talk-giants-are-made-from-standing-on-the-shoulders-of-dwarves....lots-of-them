@@ -4,7 +4,7 @@
 
 ## What is it?
 
-A lignting talk I gave to a user group in London in May 2013. I was invited over and so I went and gave this lightning 
+A lightning talk I gave to a user group in London in May 2013. I was invited over and so I went and gave this lightning 
 talk.
 
 The basic elements of this talk are that good systems and developers can be built on using lots of small 
