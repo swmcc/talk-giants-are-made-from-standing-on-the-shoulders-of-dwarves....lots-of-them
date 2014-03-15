@@ -12,7 +12,7 @@ The basic elements of this talk are that good systems and developers can be buil
 
 ## Links
 
-You can view the [slides](https://speakerdeck.com/swmcc/giants-are-made-by-standing-on-the-shoulders-of-dwarves-dot-dot-dot-lots-of-them) or you can view the [webpage](http://giants-are-made.talks.swm.cc/). Whichever you prefer.
+You can view the [slides](https://speakerdeck.com/swmcc/giants-are-made-by-standing-on-the-shoulders-of-dwarves-dot-dot-dot-lots-of-them) or you can view the [webpage](http://swm.cc/giants-are-made). Whichever you prefer.
 
 
 ## Running
